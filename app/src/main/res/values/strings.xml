@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkyRun</string>
+    <string name="easy" translatable="false">easy</string>
+    <string name="medium" translatable="false">MEDIUM</string>
+    <string name="hard" translatable="false">hard</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="hebrew">hebrew</string>
+</resources>

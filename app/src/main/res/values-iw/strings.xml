@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkyRun</string>
+    <!--string name="easy">קל</string-->
+    <!--string name="medium">בינוני</string-->
+    <!--string name="hard">קשה</string-->
+    <string name="language">שפה</string>
+    <string name="english">אנגלית</string>
+    <string name="hebrew">עברית</string>
+</resources>

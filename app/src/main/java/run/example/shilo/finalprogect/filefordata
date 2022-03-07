@@ -1,0 +1,13 @@
+settings:
+    1.audio
+    2.vibration
+loosingScore:
+    1.Score
+    2.Game counter
+        ||
+        \/
+     DataFile:
+        1.Score
+        2.Game counter
+        3.audio
+        4.vibration

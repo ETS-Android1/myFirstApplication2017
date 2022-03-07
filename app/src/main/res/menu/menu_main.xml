@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.comtools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/goGuide"
+        android:orderInCategory="100"
+        android:title="Guide"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/goCredits"
+        android:orderInCategory="100"
+        android:title="Credits"
+        app:showAsAction="never"/>
+
+</menu>
